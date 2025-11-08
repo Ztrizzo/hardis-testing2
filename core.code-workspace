@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "/Users/zacharyrizzo/Documents/Work/Krahnborn/devops/hardis"
+    }
+  ],
+  "settings": {
+    "eslint.workingDirectories": [
+      "/Users/zacharyrizzo/Documents/Work/Krahnborn/devops/hardis"
+    ],
+    "eslint.nodePath": "~/tools/eslint-tool/1.0.3/node_modules",
+    "eslint.validate": [
+      "javascript",
+      "typescript"
+    ],
+    "eslint.options": {
+      "overrideConfigFile": "/Users/zacharyrizzo/Documents/Work/Krahnborn/devops/hardis/.eslintrc.json"
+    }
+  }
+}

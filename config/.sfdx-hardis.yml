@@ -5,3 +5,5 @@ autoCleanTypes:
   - flowPositions
   - minimizeProfiles
 installedPackages: []
+deploymentPlan:
+  packages: []

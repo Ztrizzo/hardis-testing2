@@ -1,0 +1,4 @@
+mergeTargets:
+  - preprod
+targetUsername: test-p720ozi1dwsc@example.com
+instanceUrl: https://customer-enterprise-6000-dev-ed.scratch.my.salesforce.com

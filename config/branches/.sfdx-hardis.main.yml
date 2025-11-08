@@ -1,0 +1,4 @@
+mergeTargets:
+  - preprod
+targetUsername: zrizzo+devops@mkpartners.com
+instanceUrl: https://login.salesforce.com

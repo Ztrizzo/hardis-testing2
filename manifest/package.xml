@@ -6,6 +6,10 @@
         <name>CustomNotificationType</name>
     </types>
     <types>
+        <members>Account.Active__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>someLWC</members>
         <name>LightningComponentBundle</name>
     </types>

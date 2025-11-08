@@ -1,0 +1,7 @@
+projectName: hardis
+developmentBranch: preprod
+autoCleanTypes:
+  - destructivechanges
+  - flowPositions
+  - minimizeProfiles
+installedPackages: []
